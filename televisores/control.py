@@ -1,6 +1,6 @@
 from televisores.tv import TV
 
-class control:
+class Control:
     def __init__(self, tv: TV) :
         self.tv = tv
 
